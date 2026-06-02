@@ -17,8 +17,8 @@
 ## 🚀 Мои проекты / Highlighted Projects
 
 * **[NEXUS LABS Website](https://rage213.github.io/nexus-labs/)** — Мой сайт-портфолио студии автоматизации.
-* **[Premium Telegram Shop Bot](https://github.com/Rage213/nexus-labs/tree/main/portfolio-projects/tg-shop-bot)** — Асинхронный шоп на `aiogram 3` с корзиной, SQLite и симуляцией оплаты.
-* **[Async Price Monitor Parser](https://github.com/Rage213/nexus-labs/tree/main/portfolio-projects/price-tracker-parser)** — Быстрый парсер цен товаров на `aiohttp` с уведомлениями в Telegram.
+* **[Premium Telegram Shop Bot](https://github.com/Rage213/portfolio/tree/main/tg-shop-bot)** — Асинхронный шоп на `aiogram 3` с корзиной, SQLite и симуляцией оплаты.
+* **[Async Price Monitor Parser](https://github.com/Rage213/portfolio/tree/main/price-tracker-parser)** — Быстрый парсер цен товаров на `aiohttp` с уведомлениями в Telegram.
 * **[Freelance Channel Finder](https://github.com/Rage213/finder)** — Автоматический мониторинг вакансий и заказов с фриланса.
 
 ---
